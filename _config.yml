@@ -1,0 +1,6 @@
+title: 小学生错题本
+description: 免费分享小学常见错题解析，帮助孩子查漏补缺。
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
