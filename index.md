@@ -17,3 +17,4 @@ title: 小学生错题本
 
 - [数学错题](math/)
 - [语文错题](chinese/)
+- [英语错题](english/)
